@@ -143,7 +143,7 @@ All of the services are running in the default docker-compose network. From with
 ### Clone this repo
 
 ```sh
-git clone https://github.com/ghostserverd/mediaserver-docker.git
+git clone https://github.com/harkers/mediaserver-docker.git
 cd mediaserver-docker
 ```
 
